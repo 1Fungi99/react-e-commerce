@@ -1,0 +1,19 @@
+nav {
+  height: 75px;
+  background-color: #000000;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+img {
+  height: 60px;
+  transform: translateY(10%);
+  float: left;
+}
+
+.searchInput {
+  margin-left: 10vw;
+  margin-top: 3vh;
+  height: 3vh;
+  width: 50vw;
+}
